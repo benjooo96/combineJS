@@ -1,0 +1,37 @@
+body {
+     background-image: url('howdoiknow.jpeg');
+     margin-bottom: -10px;
+}
+
+
+
+.container {
+    text-align: center;
+    margin-top: 150px;
+    
+    
+}
+
+.forms {
+    padding: 10px;
+}
+
+#form1 {
+    margin-right: 20px;
+
+}
+
+#form2 {
+    margin-right: 10px;
+}
+
+#form3 {
+    margin-left: 10px;
+    padding: 15px;
+}
+
+section {
+    width: 75px;
+    height: 100px;
+    margin: 10px;
+}
